@@ -1,0 +1,7 @@
+export CONFIG_TARGET = x86_64-linux-gnu
+export CONFIG_LINUX_ARCH = x86_64
+export CONFIG_GCC_ARCH = x86-64
+export CONFIG_LINUX_KERNEL_DEFCONFIG = x86_64_defconfig
+export CONFIG_STRIP_AND_DELETE_DOCS = 1
+export CONFIG_ROOT_PASSWORD = root
+export CONFIG_HOSTNAME = sml
